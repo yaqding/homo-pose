@@ -1,5 +1,5 @@
 # An Efficient Solution to the Homography-Based Relative Pose Problem With a Common Reference Direction.
-This repository contains implementations based on the transposed eigenvalue decomposition method. 
+This repository contains faster implementations based on the transposed eigenvalue decomposition method. 
 
 ## Citations
 Please cite us if you use the code:
