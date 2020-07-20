@@ -5,6 +5,7 @@ This repository contains faster implementations based on the transposed eigenval
 Please cite us if you use the code:
 
 [1] An Efficient Solution to the Homography-Based Relative Pose Problem With a Common Reference Direction.
+
 [2] Homography-Based Minimal-Case Relative Pose Estimation with Known Gravity Direction.
 ```
 @InProceedings{Ding_2019_ICCV,
